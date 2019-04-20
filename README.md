@@ -1,3 +1,5 @@
-# Yattecast
+# genkai-radio
 
-https://r7kamura.github.io/yattecast/
+https://genkai-radio.com
+
+forked from [r7kamura/yattecast](https://github.com/r7kamura/yattecast)
